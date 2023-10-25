@@ -1,0 +1,3 @@
+free 3
+limited 2
+prize 3

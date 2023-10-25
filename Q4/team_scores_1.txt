@@ -1,0 +1,10 @@
+Atlanta United FC,25,30
+Austin FC,20,17
+Charlotte FC,22,25
+Chicago Fire FC,15,28
+FC Cincinnati,10,10
+Colorado Rapids,25,30
+Columbus Crew SC,22,30
+D.C.United,19,20
+FC Dallas,22,26
+Houston Dynamo FC,18,15
